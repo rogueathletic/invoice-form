@@ -7,7 +7,3 @@ import React from 'react';
 var total = client.map (({billableHours}*{hourlyRate}))
 export default;
 ```
-
-by appending an array into a ,TXT file. Hamez will know that ost csv files will download in txtformat that you then can convert back to CSV or excell. It would be the exact same process of storing in json... ie the file type we pull in api and just pasting to a txt file. 
-
-I have also not added in the 
